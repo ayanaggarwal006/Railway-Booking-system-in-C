@@ -1,0 +1,3 @@
+
+Registration No: 1		Passenger Name: rishu		Passenger Age: 12		Passenger Gender: Male		Train Name: Rajdhani Express		Journey: Delhi to Mumbai		Time: 10:47		Seat Class: First Class		Seat No: 1		Fare: 4500
+Registration No: 1		Passenger Name: rishu		Passenger Age: 12		Passenger Gender: Male		Train Name: Rajdhani Express		Journey: Delhi to Mumbai		Time: 10:47		Seat Class: First Class		Seat No: 1		Fare: 4500
